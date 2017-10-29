@@ -32,3 +32,5 @@ for a0 in range(q):
     result = palindromeIndex(s)
     print(result)
 
+
+I have changed the file
